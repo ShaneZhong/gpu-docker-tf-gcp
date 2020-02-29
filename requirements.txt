@@ -1,0 +1,7 @@
+numpy
+pandas
+joblib
+matplotlib
+tensorflow_ranking
+scikit-learn
+hickle
